@@ -1,0 +1,21 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 27.21.14.6093]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\jmoce\source\repos\tax-receipts-organizer\TaxReceiptsOrganizer\WindowsBuild\TaxReceiptsOrganizer_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.100 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
