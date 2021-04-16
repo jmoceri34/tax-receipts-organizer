@@ -27,3 +27,5 @@ If you add a new receipt, it appears on the right hand side.
 If you hit Sort, it sorts them by month-day-price. Save the file after to retain your changes.
 
 ![image](https://user-images.githubusercontent.com/7356219/114103341-d530a100-987d-11eb-896a-52a1077e7f14.png)
+
+This project originated from a .c program that can be found [here](https://github.com/jmoceri34/c).
